@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42340" started-at="2021-02-25T13:58:33Z" finished-at="2021-02-25T13:59:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42340" started-at="2021-02-25T13:58:33Z" finished-at="2021-02-25T13:59:16Z">
+      <class name="com.maven.testdata.Mavendemo">
+        <test-method status="PASS" signature="Demotest()[pri:0, instance:com.maven.testdata.Mavendemo@240237d2]" name="Demotest" duration-ms="28006" started-at="2021-02-25T19:28:34Z" finished-at="2021-02-25T19:29:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demotest -->
+      </class> <!-- com.maven.testdata.Mavendemo -->
+      <class name="com.maven.testdata.MavenFbDemo">
+        <test-method status="PASS" signature="display()[pri:0, instance:com.maven.testdata.MavenFbDemo@212bf671]" name="display" duration-ms="14311" started-at="2021-02-25T19:29:02Z" finished-at="2021-02-25T19:29:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display -->
+      </class> <!-- com.maven.testdata.MavenFbDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

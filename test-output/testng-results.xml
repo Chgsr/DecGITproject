@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-02-23T12:26:46Z" name="Suite" finished-at="2021-02-23T12:27:08Z" duration-ms="22201">
+  <suite started-at="2021-02-24T15:24:16Z" name="Suite" finished-at="2021-02-24T15:24:53Z" duration-ms="36857">
     <groups>
     </groups>
-    <test started-at="2021-02-23T12:26:46Z" name="Test" finished-at="2021-02-23T12:27:08Z" duration-ms="22201">
+    <test started-at="2021-02-24T15:24:16Z" name="Test" finished-at="2021-02-24T15:24:53Z" duration-ms="36857">
       <class name="com.maven.testdata.Mavendemo">
-        <test-method signature="Demotest()[pri:0, instance:com.maven.testdata.Mavendemo@327af41b]" started-at="2021-02-23T12:26:46Z" name="Demotest" finished-at="2021-02-23T12:26:57Z" duration-ms="11147" status="PASS">
+        <test-method signature="Demotest()[pri:0, instance:com.maven.testdata.Mavendemo@327af41b]" started-at="2021-02-24T15:24:16Z" name="Demotest" finished-at="2021-02-24T15:24:41Z" duration-ms="24072" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Demotest -->
       </class> <!-- com.maven.testdata.Mavendemo -->
       <class name="com.maven.testdata.MavenFbDemo">
-        <test-method signature="display()[pri:0, instance:com.maven.testdata.MavenFbDemo@6cb6decd]" started-at="2021-02-23T12:26:57Z" name="display" finished-at="2021-02-23T12:27:08Z" duration-ms="10981" status="PASS">
+        <test-method signature="display()[pri:0, instance:com.maven.testdata.MavenFbDemo@6cb6decd]" started-at="2021-02-24T15:24:41Z" name="display" finished-at="2021-02-24T15:24:53Z" duration-ms="12732" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- display -->
